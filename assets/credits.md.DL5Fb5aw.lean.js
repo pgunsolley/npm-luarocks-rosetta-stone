@@ -1,0 +1,1 @@
+import{_ as r,o as a,c as t,a0 as o}from"./chunks/framework.CNDWyMYS.js";const f=JSON.parse('{"title":"Credits","description":"","frontmatter":{},"headers":[],"relativePath":"credits.md","filePath":"credits.md"}'),i={name:"credits.md"};function s(l,e,n,h,c,p){return a(),t("div",null,[...e[0]||(e[0]=[o("",6)])])}const u=r(i,[["render",s]]);export{f as __pageData,u as default};
